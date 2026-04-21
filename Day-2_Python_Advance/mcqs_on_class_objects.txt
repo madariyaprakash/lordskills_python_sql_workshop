@@ -1,0 +1,114 @@
+Class & objects MCQs
+========================
+
+1. Classes & Objects
+What is a class in Python?
+a) A real-world entity
+b) A blueprint for creating objects - ans
+c) A function that hides data
+d) A variable that stores values
+
+
+2. Objects
+What is an object in Python?
+a) A copy of a class
+b) An instance of a class - ans
+c) A method inside a class
+d) A variable inside a class
+
+
+3. Instance Variables
+Where are instance variables defined?
+a) Inside the class but outside methods
+b) Inside the constructor (__init__) using self - ans
+c) Inside the instance method. -ans
+d) Using @staticmethod
+e) Using @classmethod
+
+
+4. Class Variables
+Where are class variables defined?
+a) Inside the constructor using self
+b) Inside the class but outside all methods
+c) Inside @classmethod
+d) Inside @staticmethod
+
+
+5. Accessibility of Instance Variables
+How do you access an instance variable?
+a) Using the class name directly
+b) Using self.variable_name inside the class or object.variable_name outside -ans
+c) Using Class.variable_name
+d) Using super()
+
+
+6. Accessibility of Class Variables
+How do you access a class variable?
+a) Using self.variable_name only
+b) Using Class.variable_name or object.variable_name
+c) Using super()
+d) Using @classmethod
+
+
+7. Instance Methods
+Which of the following is true about instance methods?
+a) They don’t take any parameters
+b) They take self as the first parameter -ans
+c) They take cls as the first parameter
+d) They are defined using @staticmethod
+
+
+8. Class Methods
+Which decorator is used to define a class method?
+a) @staticmethod
+b) @classmethod -ans
+c) @abstractmethod
+d) @property
+
+
+9. Class Methods Parameter
+What is the first parameter of a class method?
+a) self
+b) cls -ans
+c) object
+d) super
+
+
+10. Static Methods
+Which of the following is true about static methods?
+a) They take self as the first parameter
+b) They take cls as the first parameter
+c) They don’t take self or cls - ans
+d) They can only access private variables
+
+
+
+11. Accessibility of Static Methods
+How do you call a static method?
+a) Using object.method_name() or Class.method_name()
+b) Only using self.method_name()
+c) Only using Class.method_name()
+d) Only using super()
+
+
+
+12. Difference Between Instance & Class Variables
+Which statement is correct?
+a) Instance variables are shared across all objects -ans
+b) Class variables are unique to each object
+c) Instance variables are unique to each object, 
+class variables are shared across all objects
+d) Both are always private
+
+
+
+
+
+
+
+
+
+
+
+
+

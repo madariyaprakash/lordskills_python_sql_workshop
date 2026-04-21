@@ -1,0 +1,112 @@
+OOP MCQs
+============================
+
+1. Abstract Classes
+What is the main purpose of an abstract class?
+a) To provide complete implementation
+b) To define a blueprint for subclasses
+c) To hide attributes from outside access
+d) To allow multiple inheritance
+
+
+2. Abstract Methods
+Which keyword is used in Python to define an abstract method?
+a) @classmethod
+b) @staticmethod
+c) @abstractmethod
+d) @property
+
+
+3. Multiple Abstract Methods
+Can an abstract class have more than one abstract method?
+a) No, only one is allowed
+b) Yes, and subclasses must implement all of them
+c) Yes, but subclasses can skip some
+d) No, abstract classes cannot have methods
+
+
+4. Inheritance Basics
+If a child class inherits from a parent class, what happens if the child does not override any methods?
+a) The child cannot access parent methods
+b) The child can use parent methods directly
+c) The parent class becomes abstract
+d) The program will throw an error
+
+
+5. Real-World Inheritance
+Which of the following is a good example of inheritance?
+a) A Car class inheriting from a Vehicle class
+b) A BankAccount hiding its balance
+c) A PaymentGateway enforcing pay() method
+d) A ShoppingCart hiding its item list
+
+
+6. Method Overriding
+What does overriding mean in OOP?
+a) Writing a new method in the child class with the same name as the parent’s method
+b) Writing multiple methods with the same name but different parameters
+c) Hiding attributes from outside access
+d) Creating multiple constructors in a class
+
+
+7. Polymorphism Concept
+Polymorphism allows:
+a) Same method name in different classes with different behavior
+b) Hiding data from outside access
+c) Creating multiple constructors in a class
+d) Restricting inheritance
+
+
+8. Real-World Polymorphism
+Which of the following is an example of polymorphism?
+a) A driver can drive a Car, Bike, or Truck using the same action “drive”
+b) A bank account hides its balance
+c) A child inherits traits from parents
+d) A payment gateway enforces pay() method
+
+
+9. Encapsulation Basics
+Encapsulation is best described as:
+a) Restricting direct access to attributes and using methods to access them
+b) Reusing code from a parent class
+c) Having multiple methods with the same name but different behavior
+d) Enforcing method signatures
+
+
+10. Real-World Encapsulation
+Which of the following shows encapsulation?
+a) Using __balance as a private attribute in a BankAccount class
+b) Overriding start() in a Car class
+c) Defining pay() in multiple payment gateway classes
+d) Using super() to call parent methods
+
+
+11. Private Methods
+Why do we use private methods in a class?
+a) To expose functionality to external code
+b) To hide internal helper logic and restrict direct access
+c) To enforce abstraction
+d) To allow multiple inheritance
+
+
+12. OOP Pillars
+Which of the following is NOT a pillar of OOP?
+a) Inheritance
+b) Abstraction
+c) Polymorphism
+d) Compilation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
